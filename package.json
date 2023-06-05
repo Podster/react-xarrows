@@ -1,5 +1,5 @@
 {
-  "name": "react-xarrows",
+  "name": "@Podster/react-xarrows",
   "version": "2.0.2",
   "author": "Eliav Louski",
   "description": "Draw arrows (or lines) between components in React!",
@@ -24,7 +24,7 @@
   "homepage": "https://eliav2.github.io/react-xarrows/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Eliav2/react-xarrows"
+    "url": "git+https://github.com/Podster/react-xarrows.git"
   },
   "bugs": "https://github.com/Eliav2/react-xarrows/issues",
   "dependencies": {
