@@ -18,6 +18,9 @@
     "clear:lib": "del /q lib && for /d %x in (lib\\*) do @rd /s /q \"%x\"",
     "prepublishOnly": "pnpm run build"
   },
+  "publishConfig": {
+    "dthomasen@:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://eliav2.github.io/react-xarrows/",
   "repository": {
     "type": "git",
